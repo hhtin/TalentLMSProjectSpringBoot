@@ -1,1 +1,6 @@
-
+Change your username, password in application.properties
+Create database in SQL Server and change name of database in application.properties which the same with your database name
+Run project
+Go to SQL Server and add 1 account in your database
+Enjoy it!
+Thanks for watching
